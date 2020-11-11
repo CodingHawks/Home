@@ -1,7 +1,7 @@
-#Hello
+<h1>Hello</h1>
 
-##Welcome to the official Coding Hawks Github page!
+<p>Welcome to the official Coding Hawks Github page!</p>
 
-This is where you can upload your projects when you want to.
+<p>This is where you can upload your projects when you want to.</p>
 
-Enjoy!
+<p>Enjoy!</p>
